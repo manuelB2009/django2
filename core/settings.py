@@ -32,6 +32,7 @@ INSTALLED_APPS = [
 ]
 
 TAILWIND_APP_NAME = 'theme'
+EMAIL_HOST_USER='manuelbecerra2009@gmail.com'
 INTERNAL_IPS = [
     "127.0.0.1",
 ]
